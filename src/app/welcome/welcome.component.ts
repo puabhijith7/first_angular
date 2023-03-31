@@ -13,4 +13,3 @@ export class WelcomeComponent {
    this.t= this.name *2.20462262
   }
 }
-
